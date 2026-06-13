@@ -1,0 +1,27 @@
+# Environment secrets
+.env
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Database & shared volumes data
+postgres_data/
+shared_uploads/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Node / Frontend build files
+node_modules/
+dist/
+.eslintcache
+
+# OS Metadata
+.DS_Store
+Thumbs.db
