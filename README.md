@@ -6,6 +6,8 @@ AeroFlow is a modern, containerized transaction processing system. It accepts ra
 
 👉 **[Interactive Architecture Diagram (Google Drive)](https://drive.google.com/file/d/1LBz13vjlMBJVbT4iN3CrbPicosMQTg2j/view?usp=drive_link)**
 
+🎥 **[Project Walkthrough Video (Loom)](https://www.loom.com/share/8584350389a34388b9b829bd703740f4)**
+
 ```
                      ┌──────────────────┐
                      │  React Frontend  │ (Port 5173)
